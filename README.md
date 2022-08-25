@@ -17,7 +17,7 @@
 
 <h2>🏆 Estatísticas</h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoalvesdasilva&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoalvesdasilva&count_private=true&show_icons=true&theme=tokyonight)
 
 <br>
 <h2> 📬 Contato </h2>
