@@ -15,5 +15,5 @@
 <br>
 <h2> 📬 Contato </h2>
 
-<a href="[https://www.linkedin.com/in/tiago-alvesdasilva/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/tiago-alvesdasilva/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:tiago.alvessilva67@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
