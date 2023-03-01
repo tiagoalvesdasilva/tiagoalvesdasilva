@@ -2,7 +2,7 @@
 
 <h2>🏆 Estatísticas</h2>
 
-![ Estatísticas do GitHub ](https://github-readme-stats.vercel.app/api?username=tiagoalvesdasilva&show_icons=true&theme=tokyonight)
+![ Estatísticas do GitHub ](https://github-readme-stats.vercel.app/api?username=tiagoalvesdasilva&show_icons=true&theme=merko)
 
 [![ Principais idiomas ](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiagoalvesdasilva&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <h2>🛠 Tecnologias e Ferramentas</h2>
