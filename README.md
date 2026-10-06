@@ -4,7 +4,8 @@
 
 ![ Estatísticas do GitHub ](https://github-readme-stats.vercel.app/api?username=tiagoalvesdasilva&show_icons=true&theme=merko)
 
-[![ Principais idiomas ](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiagoalvesdasilva&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Principais idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoalvesdasilva&theme=merko&layout=compact)](https://github.com/tiagoalvesdasilva)
+
 <h2>🛠 Tecnologias e Ferramentas</h2>
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
